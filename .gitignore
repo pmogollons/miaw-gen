@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+.deploy/
+.vscode/
+
+.DS_STORE
+
+*.zip
