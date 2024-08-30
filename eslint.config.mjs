@@ -90,6 +90,8 @@ export default [
       "no-trailing-spaces": [
         "error",
       ],
+      "react/jsx-uses-react": "off",
+      "react/react-in-jsx-scope": "off",
       "unused-imports/no-unused-imports": "error",
       // 'unused-imports/no-unused-vars': [
       //   'warn',
